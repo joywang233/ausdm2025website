@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    /* font-family: 'Verdana', Helvetica, Arial, Lucida, sans-serif; */
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    position: relative;
+    -webkit-font-smoothing: antialiased;
+    width: 100%;
+    min-width: 800px;
+}
+
+header {
+    background-color: #e6f4ff;
+    top: 0px;
+    text-align: center;
+}
+
+main {
+    width: 100%;
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 80px;
+}
+
+
+.main-container {
+    z-index: 0;
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.content-container{
+    display: block;
+    background-color: #fff;
+    padding: 0px 30px;
+    width: 100%;
+}
+
+.fill-box {
+    background-color: #00406ae4;
+    width: 100%;
+    height: 150px;
+}
+
+@media screen and (max-width: 1300px) {
+    .fill-box{
+        height: 80px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .main-container {
+        width: 95%;
+        margin: auto;
+        margin-top: 10px;
+    }
+}
+
+
+
+
+.small-title-background-image {
+    background-image: url('../media/RMIT80Night.jpg');
+}
+

@@ -1,0 +1,53 @@
+main aside {
+    display: block;
+    width: min-content;
+    margin: auto 5px;
+}
+
+#countdown {
+    text-align: center;
+    background-color: #002b47;
+    color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#timer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#timer div {
+    display: inline-block;
+    font-size: 15px;
+    margin: 5px;
+}
+
+#timer span {
+    font-size: 20px;
+}
+
+#Keydates {
+    margin: 50px 0px;
+}
+
+#Keydates h4{
+    color: #002d4b;
+    font-weight: bold;
+}
+
+#Keydates li{
+    list-style-type: none;
+    font-size: smaller;
+    font-weight: bold;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 1200px) {
+    main aside {
+        display: none;
+    }
+}

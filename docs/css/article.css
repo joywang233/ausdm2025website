@@ -1,0 +1,288 @@
+
+
+article {
+    padding: 0px 20px;
+    line-height: 1.7em;
+    color: #303030;
+}
+
+
+article {
+    font-family: Open Sans,Arial,sans-serif;
+    /* font-family: 'Verdana', Helvetica, Arial, Lucida, sans-serif; */
+    font-weight: 400;
+    font-size: 17px;
+}
+
+article h2,
+article h3,
+article h4,
+article h5 {
+    color: #00457d;
+    margin: 20px 0px;
+}
+
+article h1{
+    color: #00457d;
+    font-size: 30px;
+    margin: 30px 0px;
+    font-family: 'Verdana', Helvetica, Arial, Lucida, sans-serif;
+    line-height: 1.5;
+}
+
+article ul{
+    margin: 15px 0px;
+    padding-left: 40px;
+    list-style:disc;
+}
+
+article li{
+    margin: 3px 0px;
+}
+
+
+article p{
+    margin: 15px auto;
+}
+
+article a{
+    color: #3da8ff;
+    text-decoration: none;
+}
+
+article img{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 10px auto;
+    max-width: 100%;
+    
+}
+
+article ol{
+    margin: 10px 20px;
+}
+
+article .images{
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: space-around;
+}
+
+article .card{
+    /* background-color: rgb(207, 225, 255); */
+    border-radius: 10%;
+    padding: 0px 25px;
+    margin: 10px auto;
+}
+
+article .card h1,
+article .card h2,
+article .card h3{
+    text-align: center;
+}
+
+article .card h4,
+article .card h5{
+    text-align: left;
+    font-size: larger;
+    margin-bottom: 0px;
+}
+
+article .card img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+article .card .images{
+    text-align: center;
+}
+
+article .card .images img{
+    left: auto;
+    transform: none;
+    margin: 0px 10px;
+}
+
+article .speakers{
+    display: flex;
+    flex-direction: row;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: space-around;
+    margin: 30px 5px;
+}
+
+article .speaker{
+    display: block;
+    text-align: center;
+    width: 300px;
+}
+
+article .speaker p{
+    margin: auto;
+    height: 180px;
+    width: 180px;
+    overflow: hidden;
+}
+
+article .speaker img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 0px;
+    border-radius: 50%;
+}
+
+article .speaker h3{
+    color: #00406ae4;
+    margin: 2px auto;
+}
+
+article .speaker h5{
+    color: #666;
+    margin: 5px auto;
+    text-align: center;
+}
+
+article .speaker .linkedin p{
+    height: 100%;
+    display: block;
+    text-align: left;
+}
+
+article .speaker .linkedin img{
+    position: relative;
+    object-fit: contain;
+    width: 40px;
+    height: 20px;
+    border-radius: 0%;
+    left: 30%;
+}
+
+article .speaker .linkedin a{
+    position: relative;
+    left: 15%;
+    bottom: 3px;
+    font-weight: bolder;
+}
+
+
+article .panel-member{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    vertical-align: middle;
+    margin: 15px auto;
+
+}
+
+article .panel-member p{
+    display: block;
+    width: 70%;
+    text-align: left;
+}
+
+article .panel-member-profile{
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+article .panel-member-profile p{
+    display: block;
+    width: 200px;
+    text-align: center;
+}
+
+article .panel-member-profile h3{
+    color: #00406ae4;
+    margin: 5px auto;
+}
+
+article .panel-member-profile h5{
+    color: #666;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 100%;
+}
+
+article .panel-member img{
+    height: 180px;
+    width: 180px;
+    left: 50%;
+    transform: translateX(-50%);
+    object-fit: cover;
+    margin: 0px;
+    border-radius: 50%;
+}
+
+article .panel-member-profile .linkedin img{
+    position: relative;
+    object-fit: contain;
+    width: 40px;
+    height: 20px;
+    left: 0%;
+    transform: none;
+    border-radius: 0%;
+}
+
+article .panel-member-profile .linkedin a{
+    position: relative;
+    bottom: 3px;
+    font-weight: bolder;
+}
+
+
+article table {
+    border-collapse: collapse; /* Collapse border spacing */
+}
+
+article table th, article table td {
+    border: 1px solid #89858582; /* Add borders to table cells */
+    padding: 8px; /* Add padding for better spacing */
+}
+
+article blockquote{
+    text-align: center;
+    font-style: italic;
+    padding: 0px 5px;
+    color: #666;
+}
+
+article .link{
+    text-align: center;
+    font-size: larger;
+    font-weight: 1000;
+    background-color: #cddceb;
+    padding: 10px;
+    color: #00457d;
+}
+
+article .day-title{
+    text-align: center;
+}
+
+article .name-list p{
+    margin: 0px;
+}
+
+article .paper-list p{
+    margin: 0px auto 0px auto;
+    font-size: medium;
+}
+
+article .paper-list h4{
+    margin: 0px;
+    color: black;
+}
+
+article .paper-list h3{
+    margin: 30px auto 0px auto;
+    font-size: medium;
+}

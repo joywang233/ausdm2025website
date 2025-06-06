@@ -1,0 +1,6 @@
+# Special Sessions
+To celebrate the first time of AusDM in New Zealand, this year we have lined-up a set of special topics to facilitate sharing and learning of the latest research advances in data science and machine learning areas of high relevance for today’s society. These sessions are chaired by recognised experts in the field. We strongly encourage submissions in these areas (please see research-track submission guidelines here):
+
+- **Ethics and Society (Chair: Dr Amanda J. Williamson, Generative AI Lead, Deloitte New Zealand / Senior Lecturer, University of Waikato):** Societal implications of data science and machine learning, fairness, interpretability, transparency, trustworthiness, human-in-the-loop machine learning, climate change and sustainability.
+- **Generative modelling (Chair: Dr Jiamou Liu, Senior Lecturer, The University of Auckland):** including multimodal ML, ML for coding, ML for drug discovery / molecular tasks, and generative models in general.
+- **Interdisciplinary applications of ML/data science (Chair: Dr Mingming Gong, Senior Lecturer, The University of Melbourne):** applications in social sciences, urban planning, medicine, humanities, social good, etc.
