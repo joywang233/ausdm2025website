@@ -1,10 +1,16 @@
 # Call for Papers
 
-The **Australasian Data Science and Machine Learning Conference (AusDM)**, formerly known as the Australasian Data Mining Conference, has established itself as the premier Australasian meeting for both practitioners and researchers in the fields of Data Science including but not limited to Data Analytics and Data Mining theory and applications and Machine Learning including but not limited Deep Learning and Generative AI. Despite the evolution of these interdisciplinary fields, AusDM is devoted to the art and science of intelligent learning and analysis of (usually big) data sets for meaningful (and previously unknown) insights that could be actionable. Hence, it enables the sharing and learning of research and progress in the local context and breakthroughs in these interdisciplinary fields.
+The **Australasian Data Science and Machine Learning Conference (AusDM)**, formerly known as the Australasian Data Mining Conference, has become the leading regional forum for both researchers and practitioners in Data Science and Machine Learning, including areas such as Data Mining, Data Analytics, Deep Learning, Natural Language Processing, and Generative AI. 
 
-Since AusDM’02, the conference has been providing a forum for disseminating, presenting, showcasing and discussing the latest research and developments in all aspects of Data Science and Machine Learning, including algorithms, software, systems and applications across all industries. Built on this tradition, AusDM’24 will facilitate the cross-disciplinary exchange of ideas, experiences, practices and potential research directions. Speciﬁcally, the conference seeks to showcase: Research Prototypes, Industry Case Studies, Practical Technology, and Research Student Projects.
+As these interdisciplinary fields continue to evolve, AusDM remains committed to advancing the development and application of intelligent algorithms capable of learning from large-scale, complex data. The conference plays a vital role in sharing progress and fostering collaboration within the Australasian data science community, while also showcasing breakthroughs with global relevance. Since its inception in 2002, AusDM has provided a platform for the presentation, discussion, and dissemination of advances in algorithms, systems, software, and real-world applications. 
 
-It is aimed to be a meeting place for pushing forward the frontiers of Data Science and Machine Learning in academia and industry. Thus, AusDM’24 will have a variety of engaging activities such as keynote speeches, panel discussions, full paper presentations, tutorials/ workshops, doctoral consortium, social/ networking events, etc.
+AusDM 2025 will build on this tradition by encouraging cross-disciplinary exchange of ideas, practical experiences, and future research directions. This year’s conference will highlight: 
+- Research prototypes 
+- Industry case studies 
+- Innovative technologies 
+- Research student projects 
+
+AusDM’25 aims to be a dynamic meeting point for advancing the frontiers of Data Science and Machine Learning in both academia and industry. The program will feature keynote talks, panel sessions, paper presentations, workshops and tutorials, a doctoral consortium, and networking events, ensuring a rich and engaging experience for all participants. 
 
 
 # Topics of Interest

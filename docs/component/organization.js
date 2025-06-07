@@ -149,13 +149,16 @@ class TemplateOrganizationGroup extends HTMLElement {
         
         groupNameElem.textContent = groupName;
         groupItems.forEach(item => {
-            const organizationItem = document.createElement('template-organization-item');
-            groupElem.appendChild(organizationItem);
+        const name = item[0];
+        const affiliation = item[1];
+        const imageFile = item[2] ?? null;  // optional 3rd field
 
-            const names = item[0].split(" ");
-            const srcPath = rootPath + names.join('')+".jpg";
-            organizationItem.setInfo(srcPath, item[0], item[1]);
-        });
+        const organizationItem = document.createElement('template-organization-item');
+        groupElem.appendChild(organizationItem);
+
+        const srcPath = rootPath + (imageFile ?? "default.jpg");
+        organizationItem.setInfo(srcPath, name, affiliation);
+    });
     }
 
 }

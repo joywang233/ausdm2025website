@@ -4,7 +4,7 @@ The doctoral consortium (DC) of AusDM24 aims to provide Early Career Researchers
 
 We do not expect you to have addressed all research questions, nor expect you to have completed the PhD. However, you should show an understanding of your research area and have a clear plan for addressing your research goals. This consortium is ideal for discussing your research questions with experienced researchers and fellow students to receive informed feedback.
 
-PhDs and ECRs with an accepted paper at the main AusDM2024 conference are also encouraged to attend the DC session. The event is planned to be an in-person event in RMIT, Melbourne, Australia.
+PhDs and ECRs with an accepted paper at the main AusDM2024 conference are also encouraged to attend the DC session. The event is planned to be an in-person event in RMIT, Brisbane, Australia.
 
 # Invited Speakers:
 
@@ -18,7 +18,7 @@ This year’s Doctoral Consortium offers an exceptional platform for ECRs and Ph
 
 ### Doctor Feng Liu
 
-##### The University of Melbourne, Australia
+##### The University of Brisbane, Australia
 
 :::
 
