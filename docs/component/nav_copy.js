@@ -14,16 +14,52 @@ templateNavDoc.documentElement.innerHTML = `
         <div class="nav-container">
             <ul id="navbar">
                 <li><a href="./index.html">Home</a></li>
-                <li><a href="./Call for Papers.html">Call for Papers </a>
+                <li><a href="./Call for Papers.html">Call for Papers <i class="arrow down"></i> </a>
+                    <ul class="submenu">
+                        <li><a href="./Call for Papers.html">Call for Papers</a></li>
+                        <li><a href="./Call for Doctoral Consortium.html">Call for Doctoral Consortium</a></li>
+                        <li><a href="./Submissions.html">Submissions</a></li>
+                        <!--<li><a href="./Call for Tutorials and Workshops.html">Call for Tutorials and Workshops</a></li>
+                        <li><a href="./Special Sessions.html">Special Sessions</a></li>--!>
+                    </ul>
                 </li>
-                <li><a href="./Organizing Committee.html">Committees </a>
+                <li><a href="#">Program <i class="arrow down"></i> </a>
+                    <ul class="submenu">
+                        <li><a href="./Accepted Papers.html">Accepted Papers</a></li>
+                        <li><a href="./Conference Program.html">Conference Program</a></li>
+                        <!--<li><a href="./Keynote Sessions.html">Keynote Sessions</a></li>
+                        <li><a href="./Tutorials.html">Tutorials</a></li>-->
+                    </ul>
+                </li>
+                <li><a href="./Day1.html">Keynote and Industry Panel Sessions <i class="arrow down"></i> </a>
+                    <ul class="submenu">
+                        <li><a href="./Day1.html">Day 1 - Cyber Security</a></li>
+                        <li><a href="./Day2.html">Day 2 - Digital Transformation</a></li>
+                        <li><a href="./Day3.html">Day 3 - ESG</a></li>
+                    </ul>
+                <li><a href="./Tutorial-Day1.html">Tutorials <i class="arrow down"></i> </a>
+                    <ul class="submenu">
+                        <li><a href="./Tutorial-Day1.html">Tutorial - Day1</a></li>
+                        <li><a href="./Tutorial-Day2.html">Tutorial - Day2</a></li>
+                    </ul>
+                
+                <li><a href="./Doctoral Consortium.html">Doctoral Consortium</a></li>
+                <li><a href="./Organizing Committee.html">Committees  <i class="arrow down"></i> </a>
+                    <ul class="submenu">
+                        <li><a href="./Organizing Committee.html">Organising Committee</a></li>
+                        <li><a href="./Program Committee.html">Program Committee</a></li>
+                    </ul>
                 </li>
                 <li><a href="./Venue.html">Attending <i class="arrow down"></i> </a>
                     <ul class="submenu">
                         <li><a href="./Venue.html">Venue</a></li>
-                       <!-- <li><a href="./Dinner.html">Conference Dinner Cruise</a></li>-->
+                        <li><a href="./Dinner.html">Conference Dinner Cruise</a></li>
                     </ul>
                 </li>
+                <li><a href="./Registration.html">Registration</a></li>
+                -->
+                <!--<li><a href="./Sponsorship.html">Sponsorship</a></li>-->
+                <li><a href="./Journal Special Issue.html">Journal Special Issue</a></li>
                 <!--<li><a href="#programme">Gallery</a></li>--!>
                 <!-- Add additional navbar items here -->
             </ul>
