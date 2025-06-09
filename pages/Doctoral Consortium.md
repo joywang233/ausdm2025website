@@ -31,7 +31,7 @@ Being a faculty member is one of the most important aims for researchers. This i
 
 #### Short Biography:
 
-Dr Feng Liu is a machine learning researcher with research interests in hypothesis testing and trustworthy machine learning. Currently, he is a Lecturer (in Machine Learning) at The University of Melbourne, Australia, and a Visiting Scientist at RIKEN-AIP, Japan. He has served as an Area Chair for ICML, NeurIPS, ICLR. He also serves as an Editor for ACM Transactions on Probabilistic Machine Learning, Associate Editor for the International Journal of Machine Learning and Cybernetics, and Action Editor for Neural Networks. He has received the ARC Discovery Early Career Researcher Award, the Outstanding Paper Award of NeurIPS (2022), the Outstanding Reviewer Award of NeurIPS (2021), and the Outstanding Reviewer Award of ICLR (2021).
+Dr Feng Liu is a machine learning researcher with research interests in hypothesis testing and trustworthy machine learning. Currently, he is a Lecturer (in Machine Learning) at The University of Brisbane, Australia, and a Visiting Scientist at RIKEN-AIP, Japan. He has served as an Area Chair for ICML, NeurIPS, ICLR. He also serves as an Editor for ACM Transactions on Probabilistic Machine Learning, Associate Editor for the International Journal of Machine Learning and Cybernetics, and Action Editor for Neural Networks. He has received the ARC Discovery Early Career Researcher Award, the Outstanding Paper Award of NeurIPS (2022), the Outstanding Reviewer Award of NeurIPS (2021), and the Outstanding Reviewer Award of ICLR (2021).
 
 ::::::
 

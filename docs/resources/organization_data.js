@@ -1,65 +1,66 @@
 const organizationData = [
-    {"groupName":"Steering Committee Co-Chairs",
+    {"groupName":"General Chairs",
     "groupItems":[
-        ["Yun Sing Koh","The University of Auckland"],
-        ["Richi Nayak","Queensland University of Technology"],
-        ["Yanchang Zhao","Data61, CSIRO"]
+        // ["Yun Sing Koh","The University of Auckland"],
+        ["Prof Richi Nayak","Queensland University of Technology", "RichiNayak.jpg"],
+        ["Dr Yee Ling Boo","RMIT University", "YeeLingBoo.jpg"]
     ]},
-    {"groupName":"General Co-Chairs ",
+    {"groupName":"Program Chairs: Research Track",
     "groupItems":[
-        ["Yee Ling Boo","RMIT University"],
-        ["Diana Benavides Prado","The University of Auckland"],
-        ["Yanchang Zhao","Data61, CSIRO"],
+        ["Prof Yuefeng Li","Queensland University of Technology","YuefengLi.jpg"],
+        ["A/Prof Quang Vinh Nguyen","University of Western Sydney", "QuangVinhNguyen.png"],
+        // ["Yanchang Zhao","Data61, CSIRO"],
     ]},
-    {"groupName":"Program Chairs – Research ",
+    {"groupName":"Program Chairs: Application Track",
     "groupItems":[
-        ["Thirunavukarasu Balasubramaniam","Queensland University of Technology"],
-        ["Kewen Liao","Australian Catholic University"],
+        ["Prof Paul Kwan","Central Queensland University","PaulKwan.png"],
+        ["Dr Yanchang Zhao","Data61, CSIRO", "YanchangZhao.jpg"],
     ]},
-    {"groupName":"Program Chairs – Application ",
+    {"groupName":"Industry Chairs",
     "groupItems":[
-        ["Varvara Vetrova","University of Canterbury"],
-        ["Diana Benavides Prado","The University of Auckland"],
+        ["Dr Anton Lord","Queensland Health","AntonLord.jpg"],
+        // ["Diana Benavides Prado","The University of Auckland"],
     ]},
-    {"groupName":"Industry Chair",
-    "groupItems":[
-        ["Khanh Luong","Queensland University of Technology and Charles Sturt University"],
-    ]},
+    // {"groupName":"Industry Chair",
+    // "groupItems":[
+    //     ["Khanh Luong","Queensland University of Technology and Charles Sturt University"],
+    // ]},
     {"groupName":"Tutorial / Workshop Chairs ",
     "groupItems":[
-        ["Robert Shen","RACE Hub, <br> RMIT University"],
-        ["Su Nguyen","RMIT University"],
+        ["Prof Xujuan Zhou(Susan)","University of Southern Queensland","XujuanZhou.jpg"],
+        ["Dr Alan Woodley","Queensland University of Technology","AlanWoodley.png"],
     ]},
     {"groupName":"Doctoral Consortium Chairs",
     "groupItems":[
-        ["Weijia Zhang","University of Newcastle"],
-        ["Pei-Wei Tsai","Swinburne University of Technology"]
+        ["Dr Zhonglin Qu(Jolin)","University of Western Sydney","ZhonglinQu.jpg"],
+        ["Dr Thiru Balasubramaniam","Queensland University of Technology","ThiruBalasubramaniam.jpg"]
     ]},
-    // {"groupName":"Diversity, Equity and Inclusion (DEI) Chair",
+    // {"groupName":"Workshop/Tutorial Chair",
     // "groupItems":[
     //     ["Richi Nayak","Queensland University of Technology"],
     // ]},
     {"groupName":"Publication Chair",
     "groupItems":[
-        ["Yee Ling Boo","RMIT University"],
-    ]},
-    {"groupName":"Web Chair",
-    "groupItems":[
-        ["Jiaheng Wei","RMIT University"],
+        ["Dr Yee Ling Boo","RMIT University", "YeeLingBoo.jpg"],
     ]},
     {"groupName":"Publicity Chair",
     "groupItems":[
-        ["Asara Senaratne","Flinders University"]
+        ["Dr Asara Senaratne","Flinders University", "AsaraSenaratne.jpg"]
     ]},
     {"groupName":"Local Organising Chairs",
     "groupItems":[
-        ["Araz Nasirian","RMIT University"],
-        ["Lin Li","Southern Cross University"]
+        ["Dr Khanh Luong","Queensland University of Technology","KhanhLuong.jpg"],
+        ["Dr Tej Bahadur Shahi","Queensland University of Technology", "TejBahadur.jpg"]
     ]},
-    {"groupName":"Sponsorship Chair",
+    {"groupName":"Web Chair",
     "groupItems":[
-        ["Robert Shen","RACE Hub, <br> RMIT University"]
+        ["Dr Md Abul Bashar","Queensland University of Technology","MdBashar.jpg"],
+         ["Yue Wang(Joy)","Queensland University of Technology", "JoyWang.jpg"]
     ]},
+    // {"groupName":"Sponsorship Chair",
+    // "groupItems":[
+    //     ["Robert Shen","RACE Hub, <br> RMIT University"]
+    // ]},
 ]
     
 

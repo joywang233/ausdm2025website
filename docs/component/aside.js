@@ -21,15 +21,15 @@ templateAsideDoc.documentElement.innerHTML = `
         <div id="Keydates">
             <h4>Important Dates (AoE 11.59pm)</h4>
             <ul>
-                <li>Abstract submission: 25 Aug 24</li>
-                <li>Paper submission: 1 Sep 24</li>
-                <li>Paper notiﬁcation: 22 Sep 24</li>
-                <li>Camera-ready: 30 Sep 24</li>
+                <li>Abstract submission: 3 Aug 25</li>
+                <li>Paper submission: 10 Aug 25</li>
+                <li>Paper notiﬁcation: 7 Sept 25 </li>
+                <li>Camera-ready: 21 Sept 25 </li>
                 <!--<li>Tutorial/Workshop submission: 18 Aug 24</li>
                 <li>Tutorial/Workshop notiﬁcation: 15 Sept 24</li>
                 <li>Doctoral Consortium Submission: 1 Sept 24</li>
                 <li>Doctoral Consortium Notification: 29 Sept 24</li>--!>
-                <li>Author Registration: 30 Sep 24</li>
+                <li>Author Registration: 21 Sept 25</li>
             </ul>
         </div>
     </aside>
@@ -132,31 +132,31 @@ class TemplateAside extends HTMLElement {
         style.textContent = templateAsideStyleContent;
         this.shadow.appendChild(style);
         
-        this.shadow.getElementById("timer").innerHTML = "Our conference has started!";
-        // setInterval(this.updateCountdown.bind(this), 1000);
+        //this.shadow.getElementById("timer").innerHTML = "Our conference has started!";
+        setInterval(this.updateCountdown.bind(this), 1000);
     }
 
     updateCountdown() {
         
-        // const countdownDate = new Date("Nov 24, 2024 23:59:59").getTime();
-        // const now = new Date().getTime();
-        // const distance = countdownDate - now;
+        const countdownDate = new Date("Nov 26, 2025 23:59:59").getTime();
+        const now = new Date().getTime();
+        const distance = countdownDate - now;
     
-        // const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        // const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        // const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        // const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+        const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
         
     
-        // this.shadow.getElementById("days").innerText = days;
-        // this.shadow.getElementById("hours").innerText = hours;
-        // this.shadow.getElementById("minutes").innerText = minutes;
-        // this.shadow.getElementById("seconds").innerText = seconds;
+        this.shadow.getElementById("days").innerText = days;
+        this.shadow.getElementById("hours").innerText = hours;
+        this.shadow.getElementById("minutes").innerText = minutes;
+        this.shadow.getElementById("seconds").innerText = seconds;
     
-        // if (distance < 0) {
-        //     clearInterval(interval);
-        //     this.shadow.getElementById("timer").innerHTML = "Our conference has started!";
-        // }
+        if (distance < 0) {
+            clearInterval(interval);
+            this.shadow.getElementById("timer").innerHTML = "Our conference has started!";
+        }
     }
 
 
