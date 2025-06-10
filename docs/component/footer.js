@@ -11,22 +11,34 @@ templateFooterDoc.documentElement.innerHTML = `
                 </div>
                 <div id="contact">
                     <h3>Contact Us</h3>
-                    <p>Email: <a href="mailto:ausdmconference@gmail.com">ausdmconference@gmail.com</a></p>
+                    <p>Email: <a href="mailto:ausdm2025@gmail.com">ausdm2025@gmail.com</a></p>
                     <p>LinkedIn: <a href=" https://www.linkedin.com/groups/4907891/"> https://www.linkedin.com/groups/4907891/</a></p>
                     <!--<p>Facebook: <a href="https://www.facebook.com/ausdm24">https://www.facebook.com/ausdm24</a></p>
                     <p>Sigmoid Social: <a href="https://sigmoid.social/@ausdm24">https://sigmoid.social/@ausdm24</a></p>-->
                 </div>
             </div> 
-
+    
             <div class="foot-info">
                 <div>
+                <!--
                     <a href='https://www.rmit.edu.au/about'>RMIT University</a> | 
                     <a href="https://www.rmit.edu.au/about/our-values/sustainability/sustainable-buildings/accessibility-on-campus">Accessibility</a> | 
                     <a href="https://policies.rmit.edu.au/document/view.php?id=23">Copyright</a> | 
                     <a href="https://www.rmit.edu.au/utilities/privacy">Privacy</a> | 
                     <a href="https://www.rmit.edu.au/utilities/terms">Terms</a>
+                -->
+               <p style="font-size: 12px; color: #999;">
+                Background images by 
+                <a href="https://teamblm.com.au" target="_blank">Brisbane Local Marketing</a> and 
+                Rob Molhoek on 
+                <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+                </p>
+
+</p>
+
                 </div>
             </div>
+          
             
     </footer>
 </template>
