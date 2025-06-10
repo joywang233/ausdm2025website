@@ -76,7 +76,7 @@
         }
     }
 
-    #sponsor-container {
+    /* #sponsor-container {
         background-color: #fff;
         width: 100%;
         margin: auto;
@@ -88,9 +88,7 @@
     #sponsor {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        /* Adjust 200px to your preferred size */
         grid-gap: 20px;
-        /* Adjust the gap between items */
         width: 80%;
         margin: 0px auto;
     }
@@ -99,7 +97,42 @@
         margin: 0px;
         font-weight: bold;
         font-size: large;
+    } */
+    
+    #qut-info-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4f8fc;
+    padding: 40px 10%;
+    gap: 30px;
     }
+
+    .qut-info-image img {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .qut-info-text {
+    max-width: 600px;
+    }
+
+    .qut-info-text h2 {
+    font-size: 28px;
+    color: #00457d;
+    margin-bottom: 15px;
+    }
+
+    .qut-info-text p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    }
+
 </style>
 
 <body>
@@ -177,7 +210,7 @@
         </div>
     </div>
 
-    <div id="sponsor-container">
+    <!-- <div id="sponsor-container">
         <h2> Hosted at Queendland University of Technology </h2>
         <div id="sponsor">
             <div>
@@ -189,7 +222,20 @@
                 <p>QUT</p>
             </div>
         </div>
-    </div>
+    </div> -->
+
+    <div id="qut-info-container">
+  <div class="qut-info-image">
+    <img src="./media/Venue/Queensland-University-Technology.jpg" alt="QUT Gardens Point Campus">
+  </div>
+  <div class="qut-info-text">
+    <h2>Hosted at Queensland University of Technology (QUT)</h2>
+    <p>
+      Located in Brisbane's CBD, QUT's Gardens Point campus offers a scenic and central venue for AusDM 2025. As a leading public research university, QUT is renowned for excellence in data science, AI, and digital transformation, supported by research centres like the Centre for Data Science. We look forward to welcoming attendees to engage, share insights, and collaborate in the heart of sunny Brisbane.
+    </p>
+  </div>
+</div>
+
 
     <div id="bottom-image"></div>
 

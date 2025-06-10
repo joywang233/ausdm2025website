@@ -13,7 +13,7 @@ const organizationData = [
     ]},
     {"groupName":"Program Chairs: Application Track",
     "groupItems":[
-        ["Prof Paul Kwan","Central Queensland University","PaulKwan.png"],
+        ["A/Prof Paul Kwan","Central Queensland University","PaulKwan.png"],
         ["Dr Yanchang Zhao","Data61, CSIRO", "YanchangZhao.jpg"],
     ]},
     {"groupName":"Industry Chairs",

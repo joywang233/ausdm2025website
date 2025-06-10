@@ -29,6 +29,6 @@ Please also note the following terms and conditions: 
 
 - Early bird fee will close by ~Sunday 27 Oct~ Sunday 17 Nov (11.59pm, AEDT). 
 
-- To request for an invitation letter, please reach out to [ausdmconference@gmail.com](mailto:ausdmconference@gmail.com).   
+- To request for an invitation letter, please reach out to [ausdm2025@gmail.com](mailto:ausdm2025@gmail.com).   
 
-- All registrations are not refundable. However, transfer of registration to another attendee is acceptable and require at least 5 working days of notification to be provided to [ausdmconference@gmail.com](mailto:ausdmconference@gmail.com). 
+- All registrations are not refundable. However, transfer of registration to another attendee is acceptable and require at least 5 working days of notification to be provided to [ausdm2025@gmail.com](mailto:ausdm2025@gmail.com). 
