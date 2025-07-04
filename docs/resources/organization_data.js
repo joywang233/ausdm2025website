@@ -27,18 +27,18 @@ const organizationData = [
     // ]},
     {"groupName":"Tutorial / Workshop Chairs ",
     "groupItems":[
-        ["Prof Xujuan Zhou(Susan)","University of Southern Queensland","XujuanZhou.jpg"],
+        ["Prof Xujuan Zhou (Susan)","University of Southern Queensland","XujuanZhou.jpg"],
         ["Dr Alan Woodley","Queensland University of Technology","AlanWoodley.png"],
     ]},
     {"groupName":"Doctoral Consortium Chairs",
     "groupItems":[
-        ["Dr Zhonglin Qu(Jolin)","University of Western Sydney","ZhonglinQu.jpg"],
+        ["Dr Zhonglin Qu (Jolin)","University of Western Sydney","ZhonglinQu.jpg"],
         ["Dr Thiru Balasubramaniam","Queensland University of Technology","ThiruBalasubramaniam.jpg"]
     ]},
-    // {"groupName":"Workshop/Tutorial Chair",
-    // "groupItems":[
-    //     ["Richi Nayak","Queensland University of Technology"],
-    // ]},
+    {"groupName":"Special Session Chair",
+    "groupItems":[
+        ["Dr Sangeetha Kutty","Central Queensland University", "SangeethaKutty.png"],
+    ]},
     {"groupName":"Publication Chair",
     "groupItems":[
         ["Dr Yee Ling Boo","RMIT University", "YeeLingBoo.jpg"],
@@ -55,7 +55,7 @@ const organizationData = [
     {"groupName":"Web Chair",
     "groupItems":[
         ["Dr Md Abul Bashar","Queensland University of Technology","MdBashar.jpg"],
-         ["Yue Wang(Joy)","Queensland University of Technology", "JoyWang.jpg"]
+         ["Yue Wang (Joy)","Queensland University of Technology", "JoyWang.jpg"]
     ]},
     // {"groupName":"Sponsorship Chair",
     // "groupItems":[
