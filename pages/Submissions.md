@@ -13,7 +13,7 @@ All submissions are required to follow the format specified for papers in the Sp
 :::
 
 
-All submitted papers must not be previously published or accepted for publication anywhere. They must not be submitted to any other conference or journal during the review process of AusDM’24. We would like to draw the authors’ attention to Springer’s [Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) (available as a PDF [here](https://bpb-ap-se2.wpmucdn.com/blogs.auckland.ac.nz/dist/c/892/files/2022/08/Publishers_Code_of_Conduct_for_Book_Authors.pdf)). 
+All submitted papers must not be previously published or accepted for publication anywhere. They must not be submitted to any other conference or journal during the review process of AusDM25. We would like to draw the authors’ attention to Springer’s [Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) (available as a PDF [here](https://bpb-ap-se2.wpmucdn.com/blogs.auckland.ac.nz/dist/c/892/files/2022/08/Publishers_Code_of_Conduct_for_Book_Authors.pdf)). 
 
 All submissions, except for the Industry Showcase Track, will go through a double-blind review process, i.e. paper submissions must NOT include authors names or affiliations or acknowledgments referring to funding bodies. Self-citing references should also be removed from the submitted papers for the double-blinded reviewing purpose. The information can be added in the accepted final camera-ready submissions.
 

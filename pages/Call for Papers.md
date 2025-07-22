@@ -15,9 +15,9 @@ AusDM’25 aims to be a dynamic meeting point for advancing the frontiers of Dat
 
 We are calling for papers, both research and applications, and from both academia and industry, for publication and presentation at the conference. All papers will go through double-blind peer review by a panel of international experts.
 
-Please note that AusDM’24 requires that at least one author for each accepted paper register for the conference and present their work for the paper to be published in the proceeding.
+Please note that AusDM25 requires that at least one author for each accepted paper register for the conference and present their work for the paper to be published in the proceeding.
 
-AusDM’24 invites contributions addressing current research in Data Science and Machine Learning as well as the experiences, practices, novel applications and future challenges. Topics of interest include, but are not restricted to:
+AusDM25 invites contributions addressing current research in Data Science and Machine Learning as well as the experiences, practices, novel applications and future challenges. Topics of interest include, but are not restricted to:
 
 - Data analytics and machine learning over heterogenous data sources including structured, semi-structured, unstructured such as text, graph, sequential, temporal, spatial, spatial-temporal, network, real-time, streaming, web, social media, multimedia, IoT, etc. 
 - Big data mining and analytics, parallel and distributed data mining and analytics, data stream mining and analytics. 
@@ -35,9 +35,9 @@ AusDM’24 invites contributions addressing current research in Data Science and
 # Submissions
 
 
-AusDM’24 proceedings will be published by Springer Communications in Computer and Information Science (CCIS) and made available in due course. The previous AusDM proceedings on SpringerLink is available [here](https://link.springer.com/conference/ausdm).
+AusDM25 proceedings will be published by Springer Communications in Computer and Information Science (CCIS) and made available in due course. The previous AusDM proceedings on SpringerLink is available [here](https://link.springer.com/conference/ausdm).
 
-We invite three types of submissions for AusDM’24:
+We invite three types of submissions for AusDM25:
 
 - **Research Track:** Academic submissions reporting on new algorithms, novel approaches and research progress, with a paper length of between 8 and 15 pages in Springer CCIS style, as detailed on conference website.
 - **Application Track:** Submissions reporting on authentic and practical applications, implementations and experiences or practices. Submissions in this category can be between 6 and 15 pages in Springer CCIS style, as detailed on conference website.

@@ -1,7 +1,7 @@
 
 # Building 80/ Swanston Academic Building (SAB) – RMIT University
 
-AusDM’24 will be held at the RMIT University Building 80 at the cosmopolitan heart of the “world’s most liveable city: Melbourne”.
+AusDM25 will be held at the RMIT University Building 80 at the cosmopolitan heart of the “world’s most liveable city: Melbourne”.
 
 The building incorporates a range of environmentally sustainable features resulting in it achieving a Green Building Council of Australia 5-star Green Star Education Design rating.
 
