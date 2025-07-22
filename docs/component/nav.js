@@ -14,21 +14,42 @@ templateNavDoc.documentElement.innerHTML = `
         <div class="nav-container">
             <ul id="navbar">
                 <li><a href="./index.html">Home</a></li>
-                <li><a href="./Call for Papers.html">Call for Papers </a>
+                <li><a href="./Call for Papers.html">Call for Papers <i class="arrow down"></i> </a>
+                    <ul class="submenu">
+                        <li><a href="./Call for Papers.html">Call for Papers</a></li>
+                        <li><a href="./Call for Doctoral Consortium.html">Call for Doctoral Consortium</a></li>
+                        <li><a href="./Submissions.html">Submissions</a></li>
+                        <!-- <li><a href="./Call for Tutorials and Workshops.html">Call for Tutorials and Workshops</a></li>
+                        <li><a href="./Special Sessions.html">Special Sessions</a></li> -->
+                    </ul>
                 </li>
-                <li><a href="./Organizing Committee.html">Committees </a>
+                <li><a href="./Organizing Committee.html">Committees <i class="arrow down"></i> </a>
+                    <ul class="submenu">
+                        <li><a href="./Organizing Committee.html">Organising Committee</a></li>
+                        <!-- <li><a href="./Program Committee.html">Program Committee</a></li> -->
+                    </ul>
                 </li>
                 <li><a href="./Venue.html">Attending <i class="arrow down"></i> </a>
                     <ul class="submenu">
                         <li><a href="./Venue.html">Venue</a></li>
-                       <!-- <li><a href="./Dinner.html">Conference Dinner Cruise</a></li>-->
                     </ul>
                 </li>
+                <!-- <li><a href="./Registration.html">Registration</a></li> -->
+                <!-- <li><a href="./Sponsorship.html">Sponsorship</a></li> -->
+                <!-- <li><a href="#programme">Gallery</a></li> -->
+            </ul>
+        </div>
+    </nav>
+</template>
+
+                    </ul>
+                </li>
+                <!--<li><a href="./Registration.html">Registration</a></li>-->
+                <!--<li><a href="./Sponsorship.html">Sponsorship</a></li>-->
                 <!--<li><a href="#programme">Gallery</a></li>--!>
                 <!-- Add additional navbar items here -->
             </ul>
         </div>
-    </nav>
 </template>
 `;
 

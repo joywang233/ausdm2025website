@@ -1,6 +1,6 @@
-# Call For Participation: AusDM24 Doctoral Consortium
+# Call For Participation: AusDM25 Doctoral Consortium
 
-The doctoral consortium (DC) of AusDM24 aims to provide Early Career Researchers (ECRs) and PhD students with the opportunity to meet, receive feedback on their research from established experts, and interact closely with their peers. Beyond valuable feedback, the consortium offers participants new contacts and great networking opportunities.
+The doctoral consortium (DC) of AusDM25 aims to provide Early Career Researchers (ECRs) and PhD students with the opportunity to meet, receive feedback on their research from established experts, and interact closely with their peers. Beyond valuable feedback, the consortium offers participants new contacts and great networking opportunities.
 
 We do not expect you to have addressed all research questions, nor expect you to have completed the PhD. However, you should show an understanding of your research area and have a clear plan for addressing your research goals. This consortium is ideal for discussing your research questions with experienced researchers and fellow students to receive informed feedback.
 
@@ -70,9 +70,9 @@ The proposal must be submitted in PDF format using the AusDM EasyChair System.
 
 ::: link
 
-The Submission Link is [HERE](https://easychair.org/conferences/?conf=ausdm24).
+The Submission Link is [HERE](https://easychair.org/conferences/?conf=ausdm25).
 
-Or copy this to your browser: https://easychair.org/conferences/?conf=ausdm24
+Or copy this to your browser: https://easychair.org/conferences/?conf=ausdm25
 
 :::
 
@@ -93,7 +93,7 @@ All accepted proposals are required to be presented at the Doctoral Consortium.
 
 # Contact Us
 
-If you have any questions regarding the submission process, please email the following Doctoral Consortium Chairs via [ausdm2024@googlegroups.com](mailto:ausdm2024@googlegroups.com) and include "AusDM24 Doctoral Consortium" in the subject line.
+If you have any questions regarding the submission process, please email the following Doctoral Consortium Chairs via [ausdm2024@googlegroups.com](mailto:ausdm2024@googlegroups.com) and include "AusDM25 Doctoral Consortium" in the subject line.
 
 - Weijia Zhang, University of Newcastle, Australia
 

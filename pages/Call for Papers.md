@@ -45,7 +45,7 @@ We invite three types of submissions for AusDM’24:
 
 All submissions, except for the Industry Showcase Track, will go through a double-blind review process, i.e. paper submissions must NOT include authors names or affiliations or acknowledgments referring to funding bodies. Self-citing references should also be removed from the submitted papers for the double-blinded reviewing purpose. The information can be added in the accepted final camera-ready submissions.
 
-AusDM24 values and promotes Diversity, Equity and Inclusion (DEI) in the community and profession. We would like to remind authors to be mindful of not using language or examples that further the marginalisation, stereotyping, or removing of any groups of individuals, especially the marginalised and/or under-represented groups in computing during paper writing.
+AusDM25 values and promotes Diversity, Equity and Inclusion (DEI) in the community and profession. We would like to remind authors to be mindful of not using language or examples that further the marginalisation, stereotyping, or removing of any groups of individuals, especially the marginalised and/or under-represented groups in computing during paper writing.
 
 If Generative AI including Large Language Models (LLMs) is used to assist in preparing the paper submissions, authors are expected to fully describe how Generative AI is used and ensure that all content (e.g. text and figures) of the paper are correct and original. For example, authors should provide how the Generative AI tools were used for paper writing, data processing/ filtering, visualisation, facilitating or running of experiments and proving theorems.
 
