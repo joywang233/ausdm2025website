@@ -21,9 +21,9 @@ The electronic submission must be in PDF only and made through the AusDM Submiss
 
 ::: link
 
-The Submission Link is [HERE](https://easychair.org/conferences/?conf=ausdm24).
+The Submission Link is [HERE](https://easychair.org/conferences/?conf=ausdm25).
 
-Or copy this to your browser: https://easychair.org/conferences/?conf=ausdm24
+Or copy this to your browser: https://easychair.org/conferences/?conf=ausdm25
 
 :::
 

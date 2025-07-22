@@ -13,8 +13,8 @@ templateFooterDoc.documentElement.innerHTML = `
                     <h3>Contact Us</h3>
                     <p>Email: <a href="mailto:ausdm2025@gmail.com">ausdm2025@gmail.com</a></p>
                     <p>LinkedIn: <a href=" https://www.linkedin.com/groups/4907891/"> https://www.linkedin.com/groups/4907891/</a></p>
-                    <!--<p>Facebook: <a href="https://www.facebook.com/ausdm24">https://www.facebook.com/ausdm24</a></p>
-                    <p>Sigmoid Social: <a href="https://sigmoid.social/@ausdm24">https://sigmoid.social/@ausdm24</a></p>-->
+                    <!--<p>Facebook: <a href="https://www.facebook.com/AusDM25">https://www.facebook.com/AusDM25</a></p>
+                    <p>Sigmoid Social: <a href="https://sigmoid.social/@AusDM25">https://sigmoid.social/@AusDM25</a></p>-->
                 </div>
             </div> 
     
