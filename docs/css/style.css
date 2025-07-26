@@ -114,3 +114,43 @@ main {
   margin: 8px 0 0;
 }
 
+
+/* Full‑width colored strip */
+#qut-info-container {
+  width: 100%;
+  background-color: #f4f8fc;
+  padding: 80px 0;       /* Vertical padding only */
+}
+
+/* Centered inner content */
+.qut-info-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;        /* Center wrapper in the page */
+}
+
+/* Image and text flex children */
+.qut-info-image {
+  flex: 0 0 45%;
+}
+.qut-info-text {
+  flex: 1;
+}
+
+/* Responsive stack */
+@media (max-width: 768px) {
+  .qut-info-wrapper {
+    flex-direction: column;
+    padding: 0 5%;
+  }
+  .qut-info-image,
+  .qut-info-text {
+    width: 100%;
+    text-align: center;
+  }
+}
+
