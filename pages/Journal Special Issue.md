@@ -2,8 +2,10 @@
 # Journal Special Issue
 
 A selected number of best papers will be invited for a submission to AusDM Special Issue in a Scimago ranked journal. The information of past Special Issue is available below: 
+[AusDM25 Special Issue - To Be Confirmed - Please stay tuned!]
+<!-- (https://link.springer.com/journal/521/updates/27706702) -->
 
-[AusDM25 Topical Selection (with Neural Computing and Applications, Scimago Q1)](https://link.springer.com/journal/521/updates/27706702)
+[AusDM24 Topical Selection (with Neural Computing and Applications, Scimago Q1)](https://link.springer.com/journal/521/updates/27706702)
 
 [AusDM23 Special Issue (with Data Science and Engineering, Scimago Q1)](https://link.springer.com/collections/feciibbfdd)
 
