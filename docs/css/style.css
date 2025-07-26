@@ -76,3 +76,41 @@ main {
     background-image: url('../media/Brisbane_ferry.jpg');
 }
 
+
+.attractions-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  padding: 20px 10%;
+  margin-top: 20px;
+  background-color: #f4f8fc;
+}
+
+.attraction-item {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  text-align: center;
+  padding: 15px;
+}
+
+.attraction-item img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.attraction-item h3 {
+  margin-top: 10px;
+  color: #00457d;
+  font-size: 18px;
+}
+
+.attraction-item p {
+  font-size: 14px;
+  color: #333;
+  margin: 8px 0 0;
+}
+
