@@ -21,7 +21,7 @@ templateAsideDoc.documentElement.innerHTML = `
         <div id="Keydates">
             <h4>Important Dates (AoE 11.59pm)</h4>
             <ul>
-                <li>Abstract submission: 3 Aug 25</li>
+              <li>Abstract Submission: <span style="text-decoration: line-through;">3 Aug 25</span> 10 Aug 25</li>
                 <li>Paper submission: 10 Aug 25</li>
                 <li>Paper notiﬁcation: 7 Sept 25 </li>
                 <li>Camera-ready: 21 Sept 25 </li>
